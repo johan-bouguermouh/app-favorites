@@ -1,0 +1,2 @@
+# app-favorites
+Descriptif du projet Développez un site web qui présente / vend au moins 3 de vos applications mobiles favorites. Il doit y avoir une page de présentation générale ainsi qu’une page pour chacune des applications. Chacune de ces pages doit avoir son propre style, à l’image de l’application. Il doit y avoir des logo, des descriptions, des slogans, des impressions d’écran, des liens de téléchargement, des liens vers les réseaux sociaux… Il faut varier les polices, les couleurs et mettre en place une structure html correcte.
